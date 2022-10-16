@@ -5,6 +5,7 @@
  * using putchar only thrice, followed by new line
  * Return: 0
  */
+
 int main(void)
 {
 	char alpha = 'a';
