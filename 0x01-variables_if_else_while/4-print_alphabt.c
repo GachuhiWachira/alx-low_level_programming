@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - Print alphabet on a line omitting e and q
- * 
+ * main - Print alphabet on a line omitting e and q 
  * Return: 0
  */
 int main(void)
