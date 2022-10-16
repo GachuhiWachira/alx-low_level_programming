@@ -7,21 +7,22 @@
  */
 int main(void)
 {
-char alpha = 'a';
+	char alpha = 'a';
 	
 	while (alpha <= 'z')
 	{
 		putchar(alpha);
 		alpha++;
 	}
-alpha = 'A';
+
+	alpha = 'A';
 	
 	while (alpha <= 'Z')
 	{
 		putchar(alpha);
 		alpha++;
 	}
-putchar('\n');
-	
+
+	putchar('\n');
 	return (0);
 }
