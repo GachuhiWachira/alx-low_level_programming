@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - print all possible combos of single-digit numbers
+ * separated by commas and a space
  * Return: 0
  */
 int main(void)
@@ -15,7 +16,7 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-		i++
+		i++;
 	}
 	putchar('\n');
 
