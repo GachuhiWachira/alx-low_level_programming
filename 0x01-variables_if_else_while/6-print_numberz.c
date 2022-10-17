@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print numbers of base 10 starting from 0 using putchar only twice and to print to the console
+ * main - print numbers of base 10 starting from 0
  * Return: 0
  */
 int main(void)
