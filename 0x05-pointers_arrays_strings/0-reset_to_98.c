@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * function with one argument
+ * file - function with one argument
  * @n: int type pointer n
  *
+ * Description: using pointer as parameter to update value
  * Return: value
  */
 void reset_to_98(int *n)
